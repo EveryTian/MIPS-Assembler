@@ -1,3 +1,9 @@
+# For VS Project
+.vs/
+Debug/
+Release/
+x64/
+
 # Prerequisites
 *.d
 
